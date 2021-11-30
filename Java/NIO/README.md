@@ -11,5 +11,3 @@
   [`Documentation📃`]()
   [`Audio🔉`]()
   [`Video🖥️`]()
-
-My name is jaideep
